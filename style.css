@@ -237,7 +237,7 @@ button {
 
 .btn--light {
   background: var(--text);
-  color: var(--bg-dark);
+  color: #000;
   font-weight: 600;
 }
 
