@@ -390,6 +390,14 @@ button {
   color: var(--text);
 }
 
+.navbar-nav .btn--light {
+  color: #000;
+}
+
+.navbar-nav .btn--light:hover {
+  color: #000;
+}
+
 .navbar-cta {
   margin-left: 1rem;
 }
